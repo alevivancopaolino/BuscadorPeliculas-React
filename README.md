@@ -26,12 +26,12 @@ Url del sitio web : http://alejandro-search-movies.surge.sh/
     <img src="imgPresentacion/img1.png" width="600" height="300" />
 </p>
 
-* 2) Búsqueda Obtenida
+* 2) Películas Buscadas
 <p>
     <img src="imgPresentacion/img2.png" width="600" height="400" />
 </p>
 
-* 3) Detalle de búsqueda obtenida
+* 3) Detalle de una película
 <p>
     <img src="imgPresentacion/img3.png" width="600" height="300" />
 </p>
