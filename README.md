@@ -19,12 +19,12 @@ Las funcionalidades más importantes del proyecto son :
 
 * 1) Página de Inicio
 <p>
-    <img src="imgPresentacion/img1.png" width="600" height="200" />
+    <img src="imgPresentacion/img1.png" width="600" height="300" />
 </p>
 
 * 2) Búsqueda Obtenida
 <p>
-    <img src="imgPresentacion/img2.png" width="600" height="200" />
+    <img src="imgPresentacion/img2.png" width="600" height="400" />
 </p>
 
 * 3) Detalle de búsqueda obtenida
